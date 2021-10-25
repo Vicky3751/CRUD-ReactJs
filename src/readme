@@ -1,1 +1,10 @@
+### Have 2 important and base files.
+
+
+## 1. index.js
+It is the main file constains reactdom features , connect our index.html and App.js file.
+
+## 2. App.js
+It is the base for all the files in components.
+Has used react router module to have different routes like /view/id and /update/id .
 
